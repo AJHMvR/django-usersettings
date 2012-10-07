@@ -7,8 +7,8 @@ setup(
     description='A pluggable application for Django to manage usersettings across apps.',
     author='Alexander van Ratingen',
     author_email='alexander@van-ratingen.nl',
-    url='http://www.bitbucket.org/Blue/django-usersettings/',
-    download_url='http://www.bitbucket.org/Blue/django-usersettings/',
+    url='http://github.com/AJHMvR/django-usersettings',
+    download_url='http://github.com/AJHMvR/django-usersettings/downloads',
     packages=[
         'usersettings',
         'usersettings.tests',
